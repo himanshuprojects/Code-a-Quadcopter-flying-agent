@@ -33,4 +33,7 @@ jupyter notebook Quadcopter_Project.ipynb
 6. You will likely need to install more pip packages to complete this project.  Please curate the list of packages needed to run your project in the `requirements.txt` file in the repository.
 
 Thank you
+
+********************************
+
 Himanshu singh :-)
